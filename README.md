@@ -1,8 +1,11 @@
 ***Homework 1: Vector Search***
 
 **Team**
+
 Menachem Franko
+
 Ori Barazani
+
 Omer Nevo
 
 **Objectives**
